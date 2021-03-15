@@ -26,4 +26,3 @@ steps:
     testType: 'app'
     monitorOnBuild: true
     failOnIssues: true
-    projectName: 'Test_M_S'
