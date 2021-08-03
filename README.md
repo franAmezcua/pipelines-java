@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/snyk-cx/First_Azure_Pipeline/_apis/build/status/franAmezcua.pipelines-java?branchName=master)](https://dev.azure.com/snyk-cx/First_Azure_Pipeline/_build/latest?definitionId=7&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
